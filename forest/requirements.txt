@@ -1,6 +1,0 @@
-scikit-learn
-flask
-streamlit
-seaborn
-selenium
-openpyxl
